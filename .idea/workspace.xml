@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="047517b6-393d-4a09-a523-5a06d8c62dbd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="3.21.py" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Git.Stage.Ui.Settings">
+    <option name="ignoredFilesShown" value="true" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="fac886f6-dc66-4ee0-a187-944509629b21" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="26C3vsEqOgEKSTUSR91DqVxCXlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject1" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.3.21">
+    <configuration name="3.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/3.10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3.21" />
+        <item itemvalue="Python.3.17" />
+        <item itemvalue="Python.3.10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1646913980496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646913980496</updated>
+    </task>
+    <task id="LOCAL-00001" summary="import random&#10;#随机生成一个整数1到100&#10;randomnumber=random.randint(1,100)&#10;&#10;a=int(input(&quot;猜一猜，请输入一个整数吧:&quot;))&#10;flag=False&#10;while flag==False:&#10;&#10;    if a &lt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太小啦，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    elif a &gt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太大了，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    else:&#10;        print(&quot;哟西，你终于猜对啦！&quot;)&#10;        a=int(input(&quot;good job&quot;))&#10;        flag==True">
+      <created>1647922614115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647922614115</updated>
+    </task>
+    <task id="LOCAL-00002" summary="import random&#10;#随机生成一个整数1到100&#10;randomnumber=random.randint(1,100)&#10;&#10;a=int(input(&quot;猜一猜，请输入一个整数吧:&quot;))&#10;flag=False&#10;while flag==False:&#10;&#10;    if a &lt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太小啦，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    elif a &gt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太大了，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    else:&#10;        print(&quot;哟西，你终于猜对啦！&quot;)&#10;        a=int(input(&quot;good job&quot;))&#10;        flag==True">
+      <created>1647926076194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647926076194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="import random&#10;#随机生成一个整数1到100&#10;randomnumber=random.randint(1,100)&#10;&#10;a=int(input(&quot;猜一猜，请输入一个整数吧:&quot;))&#10;flag=False&#10;while flag==False:&#10;&#10;    if a &lt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太小啦，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    elif a &gt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太大了，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    else:&#10;        print(&quot;哟西，你终于猜对啦！&quot;)&#10;        a=int(input(&quot;good job&quot;))&#10;        flag==True" />
+    <option name="LAST_COMMIT_MESSAGE" value="import random&#10;#随机生成一个整数1到100&#10;randomnumber=random.randint(1,100)&#10;&#10;a=int(input(&quot;猜一猜，请输入一个整数吧:&quot;))&#10;flag=False&#10;while flag==False:&#10;&#10;    if a &lt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太小啦，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    elif a &gt; randomnumber:&#10;        print(&quot;哈哈哈，你猜的数太大了，再猜一次吧！&quot;)&#10;        int(input(&quot;猜一猜，请输入一个整数吧：&quot;))&#10;    else:&#10;        print(&quot;哟西，你终于猜对啦！&quot;)&#10;        a=int(input(&quot;good job&quot;))&#10;        flag==True" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
